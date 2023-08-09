@@ -1,4 +1,4 @@
-# DPHi_Juniper_AI_Challengee
+# DPHi_Juniper_AI_Challenge
 ML_Project
 Problem Statement:
 
